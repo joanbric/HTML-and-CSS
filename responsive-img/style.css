@@ -1,0 +1,10 @@
+:root{
+    --url-image-m: url("https://cdn.pixabay.com/photo/2019/11/05/15/06/falcon-4603755_960_720.jpg");
+    --url-image-s: url("https://pixabay.com/get/g9c4995dca2736012bd759ff2de59b9486966559e2ac19a4ba0bafce182fdfdf8e082f84103fcae4075590ab7356af660_640.jpg");
+    --url-image-l: url("https://pixabay.com/get/g34acb4ce1720fd2fd6f5e7054cdab9734a3cbbb9db154dea3be5dffdb2dfffe6178b1f123f13e23fdc26fadc42c4e3bf_1920.jpg");
+}
+
+
+img{
+    width: 100%;
+}
